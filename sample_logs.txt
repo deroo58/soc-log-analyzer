@@ -1,0 +1,4 @@
+User admin failed login from 192.168.1.10
+User john logged in successfully
+Error from IP 10.0.0.5
+Failed login attempt from 172.16.0.2
